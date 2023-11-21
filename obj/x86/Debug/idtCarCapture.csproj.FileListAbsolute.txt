@@ -1,0 +1,11 @@
+D:\農委會\idtCarCapture\bin\Debug\idtCarCapture.exe
+D:\農委會\idtCarCapture\bin\Debug\idtCarCapture.pdb
+D:\農委會\idtCarCapture\bin\Debug\Newtonsoft.Json.dll
+D:\農委會\idtCarCapture\bin\Debug\Newtonsoft.Json.xml
+D:\農委會\idtCarCapture\obj\x86\Debug\idtCarCapture.csproj.AssemblyReference.cache
+D:\農委會\idtCarCapture\obj\x86\Debug\idtCarCapture.csproj.CoreCompileInputs.cache
+D:\農委會\idtCarCapture\obj\x86\Debug\idtCarCapture.csproj.CopyComplete
+D:\農委會\idtCarCapture\obj\x86\Debug\idtCarCapture.exe
+D:\農委會\idtCarCapture\obj\x86\Debug\idtCarCapture.pdb
+D:\農委會\idtCarCapture\bin\Debug\MediaToolkit.dll
+D:\農委會\idtCarCapture\bin\Debug\MediaToolkit.pdb
